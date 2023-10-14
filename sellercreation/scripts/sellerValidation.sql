@@ -1,0 +1,1 @@
+SELECT SellerID,Email,Phone  FROM {table} WHERE email=%s and phone=%s
